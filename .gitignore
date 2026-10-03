@@ -1,0 +1,12 @@
+.planning-cache/
+.testificate/
+.env
+.env.*
+!.env.example
+node_modules/
+__pycache__/
+.venv/
+cdk.out/
+dist/
+coverage/
+*.log
